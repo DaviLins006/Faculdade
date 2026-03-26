@@ -1,0 +1,50 @@
+# Questao 43: Desenvolva um programa que pergunte ao usuário quantas vezes ele quer que uma mensagem seja exibida, e depois use um for para imprimir essa mensagem repetidas vezes.
+
+
+vezes = int(input('Digite quantas vezes você quer ver a mensagem:'))
+
+for mensagem in range(vezes):
+    print('Olá rapaz')
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
